@@ -32,7 +32,10 @@
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** 
+**1.** **Align Financial Planning with Strategic Goals**: Ensure financial plans are in line with the overall strategic objectives.
+
+**2.** **Instill Confidence in Financial Outlook**: Communicate financial health to stakeholders, building confidence in the organization's future.
 
 
 ## Technical & Soft Skills:
