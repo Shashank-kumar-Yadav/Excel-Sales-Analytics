@@ -36,12 +36,11 @@
 
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	**Proficiency in ETL Methodology (Extract, Transform, Load)**: Expertise in extracting and transforming data for robust analytics.
+- [x]	**Power Query**: Skills in generating date tables and deriving fiscal months and quarters.
+- [x]	**Power Pivot**: Establishing data model relationships and incorporating supplementary data for a comprehensive analysis.
+- [x]	**DAX (Data Analysis Expressions)**: Creating calculated columns for advanced analytics.
+
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
