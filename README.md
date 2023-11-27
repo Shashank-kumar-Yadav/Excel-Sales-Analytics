@@ -13,11 +13,11 @@
 
 - **Role of reports:** 
 
-   **1.** Determine Effective Customer Discounts: Utilize insights to optimize discount strategies and enhance customer relationships.
+   **1.** **Determine Effective Customer Discounts:** Utilize insights to optimize discount strategies and enhance customer relationships.
 
-   **2.** Facilitate Negotiations with Consumers: Equip sales teams with data to negotiate effectively and meet customer needs.
+   **2.** **Facilitate Negotiations with Consumers:** Equip sales teams with data to negotiate effectively and meet customer needs.
 
-   **3.** Identify Business Expansion Opportunities: Analyze data to pinpoint promising countries for potential business expansion.
+   **3.** **Identify Business Expansion Opportunities:** Analyze data to pinpoint promising countries for potential business expansion.
 
 
 ## Finance Report :
