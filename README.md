@@ -43,7 +43,11 @@
 
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
+- [x] **Refined Understanding of Sales & Finance Reports**: Deep comprehension of the nuances in crafting impactful reports.
+
+- [x] **User-Centric Report Design**: Designing reports with empathy for end-users to enhance usability.
+
+- [x] **Optimization Skills**: Meticulous fine-tuning for efficient and effective report generation.
+
+- [x] **Systematic Report Building Approach**: Developing a systematic approach to constructing reports for consistency and reliability.
