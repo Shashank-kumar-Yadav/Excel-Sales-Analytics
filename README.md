@@ -42,7 +42,8 @@
 ## Technical & Soft Skills:
 - [x]	**Proficiency in ETL Methodology (Extract, Transform, Load)**: Expertise in extracting and transforming data for robust analytics.
 - [x]	**Power Query**: Skills in generating date tables and deriving fiscal months and quarters.
-- [x]	**Power Pivot**: Establishing data model relationships and incorporating supplementary data for a comprehensive analysis.
+- [x]	**Power Pivot**: Establishing data model relationships and incorporating supplementary data for a comprehensive 
+                       analysis.
 - [x]	**DAX (Data Analysis Expressions)**: Creating calculated columns for advanced analytics.
 
 
@@ -50,5 +51,6 @@
 - [x] **Refined Understanding of Sales & Finance Reports**: Deep comprehension of the nuances in crafting impactful reports.
 - [x] **User-Centric Report Design**: Designing reports with empathy for end-users to enhance usability.
 - [x] **Optimization Skills**: Meticulous fine-tuning for efficient and effective report generation.
-- [x] **Systematic Report Building Approach**: Developing a systematic approach to constructing reports for consistency and reliability.
-modify this github code 
+- [x] **Systematic Report Building Approach**: Developing a systematic approach to constructing reports for consistency and 
+                                               reliability.
+
